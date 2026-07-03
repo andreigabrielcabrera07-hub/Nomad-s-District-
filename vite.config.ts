@@ -11,6 +11,6 @@ export default defineConfig({
     server: { entry: "server" },
   },
   vite: {
-    base: "/Nomad-s-District-/", // 👈 Add this line
+    base: "/Nomad-s-District-/", 
   },
 });
