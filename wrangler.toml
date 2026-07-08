@@ -4,4 +4,3 @@ compatibility_date = "2026-07-03"
 
 [site]
 bucket = ".output/public"
-entry-point = "workers-site"
